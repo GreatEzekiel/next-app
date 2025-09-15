@@ -1,0 +1,12 @@
+'use client';
+import React from 'react'
+
+const AddToCart = () => {
+  return (
+    <div>
+         <button className='btn Console.log("");btn-primary' onClick={() => console.log('Click')}>ADD TO CART</button>
+    </div>
+  )
+}
+
+export default AddToCart;
